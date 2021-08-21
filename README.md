@@ -1,5 +1,7 @@
 # 12_Steps_NS_Eqns_Python
 
+CFD_ME_702 https://www.youtube.com/playlist?list=PL30F4C5ABCE62CB61
+
 
 # If you get a fatal error interminal "not a git repositary ( or any of the parent directory)" try to solve it with command "git init"
 
