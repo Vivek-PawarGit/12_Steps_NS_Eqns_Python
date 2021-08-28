@@ -2,6 +2,8 @@
 
 CFD_ME_702 https://www.youtube.com/playlist?list=PL30F4C5ABCE62CB61
 
+notes: https://lorenabarba.com/blog/cfd-python-12-steps-to-navier-stokes/
+
 
 # If you get a fatal error interminal "not a git repositary ( or any of the parent directory)" try to solve it with command "git init"
 
